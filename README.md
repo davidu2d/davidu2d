@@ -13,5 +13,10 @@ My name is David Jeremias, I have more than 10 years of experience as a Java sof
   
   📚 I am currently learning distributed software architecture
 
+- texto em vermelho
++ texto em verde
+! texto em laranja
+# texto em cinza
+@@ texto em roxo (e negrito)@@
 
 
