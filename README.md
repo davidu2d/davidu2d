@@ -5,7 +5,9 @@ My name is David Jeremias, I have more than 10 years of experience as a Java sof
 
 ## About me
 
--🙌🏻 Disciplina of Jesus
--👨‍👩‍👧‍👦 I love my family
--📚 I am currently learning distributed software architecture
+  🙌🏻 Disciplina of Jesus
+  👨‍👩‍👧‍👦 I love my family
+  📚 I am currently learning distributed software architecture
+
+
 
