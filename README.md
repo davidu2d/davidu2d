@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi Gentlemen 👋
+______________________________________________________________________________________
+
+My name is David Jeremias, I have more than 10 years of experience as a Java software engineer, I have worked on large projects, for large financial institutions in Brazil, with emphasis on the PIX project of the Central Bank of Brazil.
+
+## About me
 
 **davidu2d/davidu2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+books I am currently learning DevSecOps and Quarkus Framework
+[1]: http://www.twitter.com/meunome
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,3 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
